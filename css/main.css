@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(201, 230, 173);
+  }
+  
+h1 {
+    color: rgb(90, 48, 25);
+    margin-left: 20px;
+}
+
+header {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.main_icon {
+    width: 15rem;
+}
+
+.main_buttons {
+    height: 5rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
