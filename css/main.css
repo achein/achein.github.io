@@ -21,6 +21,25 @@ body {
     width: 15rem;
 }
 
+.bloglinksimg {
+    height: 6rem;
+}
+.column-1 {
+    float: left;
+    width: 70%;
+}
+.column-2 {
+    float: left;
+    width: 30%;
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .main_buttons {
     height: 4rem;
     margin-left: 2rem;
