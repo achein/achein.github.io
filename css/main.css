@@ -4,7 +4,11 @@ body {
   
 h1 {
     color: rgb(90, 48, 25);
-    margin-left: 20px;
+    margin-left: 1rem;
+}
+
+h2 {
+    color: rgb(90, 48, 25);
 }
 
 body {
@@ -48,4 +52,13 @@ body {
 
 .cat_picture {
     width: 20rem
+}
+
+.concert_picture {
+    height: 20rem
+}
+
+.concert_text {
+    vertical-align: top;
+    padding-left: 2rem;
 }
