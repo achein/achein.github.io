@@ -28,7 +28,7 @@ url: "https://www.amyonline.net" # the base hostname & protocol for your site, e
 github_username:  achein
 
 # Build settings
-theme: amyonline
+remote_theme: achein/amyonline-theme
 plugins:
   - jekyll-feed
 
